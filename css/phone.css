@@ -1,0 +1,25 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar li {
+    margin: 0.25em 0.2em;
+}
+
+#navbar li a{
+    font-size: 0.8rem;
+}
+
+#home .container{
+    height: 60vh;
+    text-align: center;
+}
+#services{
+    flex-direction: column;
+}
+.services-container #services .box img{
+     height: 15vh;
+}
+#services .box{
+margin-top: 1em;
+}
+
